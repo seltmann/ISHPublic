@@ -6,7 +6,7 @@
   <h1>The Journal of Hymenoptera Research</h1>
 
 <p style="float:right; padding:4px;"><a href="http://www.pensoft.net/rss/rss_journals.php?journal_id=10" rel="alternate" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" /></a>&nbsp;<a href="http://www.pensoft.net/rss/rss_journals.php?journal_id=10" rel="alternate" type="application/rss+xml">Get the live feed!</a>
-<br />
+ <br />
 
 <img src="http://www.pensoft.net/J_FILES/1297178923COVER%20FRONT%20THUMB.jpg" alt="" height=""/><p>
 
