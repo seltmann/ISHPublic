@@ -83,5 +83,5 @@ Bernastrasse 15<br />
 
   <!-- end #mainContent --></div>
 
-  <?php include"footer.html";
+ <?php include"footer.html";
 ?>
