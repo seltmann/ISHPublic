@@ -32,7 +32,7 @@ email: brabant at entomology dot wisc dot edu<br />
 
 <p>Back issues are also available through the <a href= "http://www.biodiversitylibrary.org/bibliography/2680">Biodiversity Heritage Library</a>.</p>
 
-<p><b>Editor: </b>Stefan Schmidt</p>
+<p><b>Editor: </b>Hannes Baur</p>
 
 <p><b>Subject Editors:</b></p>
 
@@ -72,7 +72,7 @@ email: brabant at entomology dot wisc dot edu<br />
 </p>
 
 <p>All questions concering the journal should be addressed to:<br />
-Dr Hannes Baur<br />
+Dr. Hannes Baur<br />
 Naturhistorisches Museum der Burgergemeinde Bern<br />
 Department of Invertebrates<br />
 Bernastrasse 15<br />
