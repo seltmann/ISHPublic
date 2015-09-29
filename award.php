@@ -54,7 +54,6 @@ Should the committee recommend to the Executive Committee that an award be made,
 	<li>Andrew Austin (2008)</li>
 	<li>Gavin Broad (2010)</li>
   	<li>Andrew R. Deans (2012)</li>
-	<li>Andrew R. Deans (2012)</li>
 </ul>
 
 <h2>Student Award</h2>
