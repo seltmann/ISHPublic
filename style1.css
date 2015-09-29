@@ -1,0 +1,218 @@
+@charset "UTF-8";
+body  {
+	font: 100% Arial, Helvetica, Verdana, sans-serif;
+	background: #666666;
+	margin: 0; /* it's good practice to zero the margin and padding of the body element to account for differing browser defaults */
+	padding: 0;
+	text-align: center; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+	color: #000000;
+}
+
+table, td, th{
+border:1px dashed #CC9966;
+border-collapse:collapse;
+}
+
+th{
+background-color:#CC9966;
+color:white;
+height:50px;
+}
+
+td{
+padding:15px;
+background:#EBEBEB;
+}
+
+a {
+	text-decoration:none;
+}
+a[href$=".pdf"]     {
+        background: url("http://insectmuseum.org/otherimages/pdf.png") no-repeat right top; padding-right: 16px; border-style: none;
+}
+blockquote {
+	font-style:italic;
+	font-size:0.9em;
+}
+#container { 
+	width: 1250px;
+	/* width: 80%; this will create a container 80% of the browser width */
+	background: #FFFFFF;
+	margin: 0 auto; /* the auto margins (in conjunction with a width) center the page */
+	border: 1px solid #000000;
+	text-align: left; /* this overrides the text-align: center on the body element. */
+} 
+
+
+
+#onlybox_all {
+
+}
+
+#header { 
+	background: #000; 
+	text-align:center;
+	padding: 0 10px;  /* this padding matches the left alignment of the elements in the divs that appear beneath it. If an image is used in the #header instead of text, you may want to remove the padding. */
+} 
+#header h1 {
+	color: #FFFF00;
+	margin: 0; /* zeroing the margin of the last element in the #header div will avoid margin collapse - an unexplainable space between divs. If the div has a border around it, this is not necessary as that also avoids the margin collapse */
+	padding: 10px 0; /* using padding instead of margin will allow you to keep the element away from the edges of the div */
+}
+
+/* Tips for sidebar1:
+1. since we are working in percentages, it's best not to use padding on the sidebar. It will be added to the width for standards compliant browsers creating an unknown actual width. 
+2. Space between the side of the div and the elements within it can be created by placing a left and right margin on those elements as seen in the ".twoColLiqLtHdr #sidebar1 p" rule.
+3. Since Explorer calculates widths after the parent element is rendered, you may occasionally run into unexplained bugs with percentage-based columns. If you need more predictable results, you may choose to change to pixel sized columns.
+*/
+#sidebar {
+	float: right; 
+	width: 20%; /* since this element is floated, a width must be given */
+	padding: 25px 25px 25px 25px; /* top and bottom padding create visual space within this div  */
+	border-right: 1px #666666 solid;
+}
+
+#sidebar p {
+	padding: 25px 25px 25px 25px;
+}
+
+#sidebar1 {
+	float: left; 
+	width: 20%; /* since this element is floated, a width must be given */
+	background: #EBEBEB; /* the background color will be displayed for the length of the content in the column, but no further */
+	padding: 15px 0; /* top and bottom padding create visual space within this div  */
+	border-bottom: 1px #666666 solid;
+	border-right: 1px #666666 solid;
+}
+#sidebar1 h3, #sidebar1 p {
+	margin-left: 13px; /* the left and right margin should be given to every element that will be placed in the side columns */
+	margin-right: 10px;
+}
+#sidebar1 li {
+	list-style:none;
+	padding-bottom:10px;
+	font-weight:bold;
+}
+#sidebar1 a {
+	color:#000000;
+	text-decoration:none;
+}
+#sidebar1 a:hover {
+	color:#CC6600;
+}
+/* Tips for mainContent:
+1. the space between the mainContent and sidebar1 is created with the left margin on the mainContent div.  No matter how much content the sidebar1 div contains, the column space will remain. You can remove this left margin if you want the #mainContent div's text to fill the #sidebar1 space when the content in #sidebar1 ends.
+2. to avoid float drop at a supported minimum 800 x 600 resolution, elements within the mainContent div should be 430px or smaller (this includes images).
+3. in the Internet Explorer Conditional Comment below, the zoom property is used to give the mainContent "hasLayout." This avoids several IE-specific bugs.
+*/
+
+
+#mainContent { 
+	margin: 0 20px 0 22%; /* the right margin can be given in percentages or pixels. It creates the space down the right side of the page. */
+} 
+
+#innerContent { 
+	float: left;
+}
+#mainContent h1 {
+	font-size:1.8em;
+}
+#mainContent h2 {
+	font-size:1.2em;
+	font-style:italic;
+	border-bottom: solid #999999 1px;
+}
+
+#mainContent h3 {
+	font-size:1.2em;
+	font-style:italic;
+	border-bottom: solid #999999 1px;
+}
+#mainContent p {
+	margin-left: 10px;
+}
+
+
+.mainMedia {
+	text-align:center;
+	font-size:0.8em;
+	padding-bottom:8px;
+}
+
+ .topmenu {
+	text-align:left;
+	font-size:0.8em;
+	padding: 16px 0px 16px 5px;	
+	font-style: oblique;
+}
+
+/* begin feedburner CSS */
+.headline a {
+	color: #CC6600;
+}
+p.feedItemAuthor {
+	font-size: 0.7em;
+	margin-bottom:-10px;
+}
+p.date {
+	font-size: 0.7em;
+}
+.feedburnerFeedBlock li {
+	list-style:none;
+	margin-left:-30px;
+}
+.feedburnerFeedBlock li div {
+	font-size:0.8em;
+	padding-bottom:10px;
+}
+/* end feedburner CSS */
+#footer { 
+	padding: 0 10px; /* this padding matches the left alignment of the elements in the divs that appear above it. */
+	background:#DDDDDD;
+	color:#666666;
+	font-size:0.8em;
+	text-align:center;
+	
+} 
+
+#footer p {
+	margin: 0; /* zeroing the margins of the first element in the footer will avoid the possibility of margin collapse - a space between divs */
+	padding: 10px 0; /* padding on this element will create space, just as the the margin would have, without the margin collapse issue */
+}
+
+/* Miscellaneous classes for reuse */
+.fltrt { /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { /* this class can be used to float an element left in your page */
+	float: left;
+	margin-right: 8px;
+}
+
+.fltlftiny { /* this class can be used to float an element left in your page */
+	float: left;
+	font-size: 70%;
+	margin: 8px 8px 8px 8px	;
+	padding: 5px 5px 5px 5px; /* this padding matches the left alignment of the elements in the divs that appear above it. */
+	background:#CCCCCC;
+	border: dotted;
+	width: 900px;
+	height: 180px;
+}
+.fltlfmember { /* this class can be used to float an element left in your page */
+	float: left;
+	margin: 8px 8px 8px 8px	;
+	padding: 5px 5px 5px 5px; /* this padding matches the left alignment of the elements in the divs that appear above it. */
+	font-size: 70%;
+	background:#CCCCCC;
+	border: dotted;
+	width: 900px; 
+	height: 310px;
+}
+.clearfloat { /* this class should be placed on a div or break element and should be the final element before the close of a container that should fully contain a float */
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}

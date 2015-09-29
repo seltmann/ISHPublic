@@ -1,0 +1,211 @@
+<?php include"header.html";
+?>
+  <?php include"nav.html";
+?>
+
+  <div id="mainContent">
+  <h1>Registration for the 7th International Congress of Hymenopterists (2010. June 20-26, Köszeg, Hungary)
+
+
+<div class="fltrt">
+	<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+	">
+	<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_viewcart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+	<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+	</form>
+		</div>
+	</h1>
+
+
+
+<div class="innerContent">	
+	
+
+<p>Instructions: From the shopping cart pick: </b>
+<p>Costs already include paypal fees and further bank transfer charges to Hungarian accounts.  You can read the details of the 
+congress in the <a href="http://hymenopterists.org/files/FINAL_CIRCULAR.doc">Final Circular Document</a>.</p>
+
+<blockquote>
+<p><strong>1. Registration Fee (either regular or student).</strong> Those who pay the Student Fee must send certification by their supervisor. Please e-mail George Melika: melikageorge(at)gmail(dot)com. No Registration fee is required for companions. Companions who wish to participate in the full 5-day excursion option will be contacted by George Melika to make necessary arrangements.</p>
+
+<p><strong>2. or 3. Hotel Payments </strong> (single, double or hostel). Choose appropriate option for hotel from boxes 2. or 3. below to pay your hotel reservation. George Melika will send an email to remind you which hotel(hostel) (single or double room) you was pre-booked for based on earlier negotiations. It is important
+to respect these predetermined accommodations as most of the hotel rooms are already reserved. Choose "double room with companion" and prepay if you will arrive with a companion. Hotel reservations include breakfast. Accommodations  and breakfast for children under 14 years old is free </p>
+
+<p><strong>4. Dining </strong> (catered by the congress for June 21-25): (x5 lunch, x2 dinner, x2 receptions, 1 grill party, and 8 tea breaks). Dining for children under 14 years old is free. For participants who mailed us their dietary restrictions and food allergies, allergent-free dishes would be served. We highly suggest to all participants purchase the dining expenses for their companions as well (choose option "Delegate+Companion"). Companion dining expenses are slightly lower as the price of 8 tea breaks is deducted. For companions who choose the full 5-day excursion, a rich lunch bag is provided instead of a regular lunch at the hotel, and thus the Dining expenses are the same. Those who will stay in Köszeg on their own and don’t need hotel reservations announced here are kindly asked to pay Dining expenses catered by the congress. A badge given to you after arriving will allow to take part in all caterings. </p>
+
+<p><strong>5. Bus transfers.</strong> You can choose from four options. The "Excursion" includes the bus rent costs for June 24th. This is a whole day excursion and must be paid by participants and companions. Those who will arrive and depart by air or train (either to/from Budapest or Vienna) and need a bus transfer to/from Köszeg choose either "airport + excursion" or "airport + excursion with companion". Those who will travel by car choose "excursion" or "excursion with companion". </p>
+
+<p><strong>6. Optional Donation </strong> to support ISH members who cannot afford the congress fees. </p>
+
+<p><strong>7. Join or renew </strong> your International Society of Hymenopterists membership for 2010. </p>
+
+</blockquote>
+
+<div class="fltrt">
+	<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+	">
+	<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_viewcart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+	<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+	</form>
+		</div>
+	</h1>
+
+<div class="fltlfsmall">
+	<h3>1. Registration Fee</h3>
+	
+	<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="hosted_button_id" value="AL6NQDEDJMKD8">
+	<table>
+	<tr><td><input type="hidden" name="on0" value="Membership Type">Membership Type</td></tr><tr><td><select name="os0">
+		<option value="Regular">Regular $90.00</option>
+		<option value="Student">Student $65.00</option>
+	</select> </td></tr>
+	</table>
+	<input type="hidden" name="currency_code" value="USD">
+	<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+	<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+	</form>
+</div>
+
+<div class="fltlfsmall">
+	<h3>2. Hotel Payments</h3>
+	<p>Irottkő+ Arany Strucc, (6 nights/person)</p>
+	
+	<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="hosted_button_id" value="7NS4R5JVJJC8S">
+	<table>
+	<tr><td><input type="hidden" name="on0" value="Room Size">Room Size</td></tr><tr><td><select name="os0">
+		<option value="Single room">Single room $400.00</option>
+		<option value="Double room (single person)">Double room (single person) $200.00</option>
+		<option value="Double room with companion">Double room with companion $400.00</option>
+	</select> </td></tr>
+	</table>
+	<input type="hidden" name="currency_code" value="USD">
+	<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+	<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+	</form>
+</div>
+
+<div class="fltlfsmall">
+	<h3>3. Hotel Payments</h3>
+	<p>AACS hostel, (6 nights/person). Double rooms only.</p>
+	
+	<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="hosted_button_id" value="4EUNYRXNVPM7J">
+	<table>
+	<tr><td><input type="hidden" name="on0" value="Room Size">Room Size</td></tr><tr><td><select name="os0">
+		<option value="Double room (single person)">Double room (single person) $180.00</option>
+		<option value="Double room with companion">Double room with companion $360.00</option>
+		<option value="Single room">Single room $360.00</option>
+	</select> </td></tr>
+	</table>
+	<input type="hidden" name="currency_code" value="USD">
+	<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+	<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+	</form>
+
+</div>
+
+<div class="fltlfsmall">
+	<h3>4. Dining </h3>
+	<p>Catered dining for the 5 days of the congress</p>
+	
+	<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="hosted_button_id" value="AM9GHYV4NK3KL">
+	<table>
+	<tr><td><input type="hidden" name="on0" value="With our without companion">With or without companion</td></tr><tr><td><select name="os0">
+		<option value="Delegate">Delegate $300.00</option>
+		<option value="Delegate with companion">Delegate with companion $570.00</option>
+	</select> </td></tr>
+	</table>
+	<input type="hidden" name="currency_code" value="USD">
+	<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+	<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+	</form>
+
+</div>
+
+<div class="fltlfsmall">
+	<h3>5. Bus transfer</h3>
+	
+	<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="hosted_button_id" value="EWCWXY9K3JD2E">
+	<table>
+	<tr><td><input type="hidden" name="on0" value="Transportation Options">Transportation Options</td></tr><tr><td><select name="os0">
+		<option value="airport+excursion">airport+excursion $75.00</option>
+		<option value="airport+excursion with companion">airport+excursion with companion $150.00</option>
+		<option value="excursion">excursion $60.00</option>
+		<option value="excursion with companion">excursion with companion $120.00</option>
+	</select> </td></tr>
+	</table>
+	<input type="hidden" name="currency_code" value="USD">
+	<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+	<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+	</form>
+
+</div>
+
+
+<div class="fltlfsmall">
+	<h3>6. Optional Donation</h3>
+	<p>donation to assist members with registration fees who cannot afford them</p>
+	
+	<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="hosted_button_id" value="L2S2P4AVMCRKC">
+	<table>
+	<tr><td><input type="hidden" name="on0" value="donation amount (can add multiple times)">donation amount (can add multiple times)</td></tr><tr><td><select name="os0">
+		<option value="ten">ten $10.00</option>
+		<option value="twenty-five">twenty-five $25.00</option>
+		<option value="fifty">fifty $50.00</option>
+		<option value="hundred">hundred $100.00</option>
+	</select> </td></tr>
+	</table>
+	<input type="hidden" name="currency_code" value="USD">
+	<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+	<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+	</form>
+</div>
+
+<div class="fltlfmember">
+	<h3>7. Join or renew</h3>
+	
+		<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+		<input type="hidden" name="cmd" value="_s-xclick">
+		<input type="hidden" name="hosted_button_id" value="AKX26AEP2UYX6">
+		
+	<div class="fltrt">	
+			<input type="hidden" name="currency_code" value="USD">
+			<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+			<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">	
+	</div>
+		<br /><br /><br />
+		<table>
+			<tr>
+				<td><input type="hidden" name="on0" value="Membership Type">choose membership type</td></tr><tr><td>
+					<select name="os0">
+						<option value="Individual">Individual $47.00</option>
+						<option value="Student">Student $24.00</option>
+						<option value="Family">Family $52.00</option>
+						<option value="Life">Life $750.00</option>
+					</select> 
+				</td>
+			</tr>
+		</table>
+	</form>
+</div>
+
+	</div>
+  <!-- end #mainContent -->
+
+  <?php include"footer.html";
+?>
