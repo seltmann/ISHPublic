@@ -208,7 +208,7 @@
 <div id = "innerContent">
 <h2>Snail Mail</h2>
 <p>
-If you'd like to join but do not wish to use paypal, please download the attached <a href="files/2015_Membership_form.pdf">membership form</a>
+If you'd like to join but do not wish to use paypal, please download the attached <a href="files/2016_Membership_form.pdf">membership form</a>
 <br/>
 Please print the form, fill it out, and snailmail it to:<br /><br />
 Craig M. Brabant<br />

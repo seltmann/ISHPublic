@@ -10,7 +10,7 @@ Membership is open to all persons with an interest in hymenopterans. If you are 
 <p>
 As a member, you receive our <a href="journal.php">journal</a> for free. But this is not why you should join us. One reason to join is that the journal is financed by our membership and if we didn't have enough members, we wouldn't be able to publish the journal. So even if you can get the journal in your library, you should join, to ensure that the journal gets published at all! Also, membership supports the many activities of the Society, for example our meetings and this website.</p>
 <p>
-If you'd like to join, please download the <a href="files/2015_Membership_form.pdf">membership form</a></b>, print the form, fill it out, and snailmail it to:<br />
+If you'd like to join, please download the <a href="files/2016_Membership_form.pdf">membership form</a></b>, print the form, fill it out, and snailmail it to:<br />
 Craig M. Brabant<br />
 Department of Entomology<br />
 University of Wisconsin-Madison<br />
