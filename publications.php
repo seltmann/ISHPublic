@@ -27,7 +27,9 @@
 <li><a href="newsletters/hamuli/HamuliVol4Issue2.pdf">Volume 4, issue 2</a> (August 2013) </li>
 <li><a href="newsletters/hamuli/HamuliVol5Issue1.pdf">Volume 5, issue 1</a> (January 2014) </li>
 <li><a href="newsletters/hamuli/HamuliVol5Issue2.pdf">Volume 5, issue 2</a> (September 2014) </li>
-<li>Volume 6, issue 1 (February 2015) - <span style="color:red;">Please <a href="http://hymenopterists.org/purchase.php">join ISH</a> for access.</span></li>
+<li><a href="newsletters/hamuli/HamuliVol6Issue1members.pdf">Volume 6, issue 1</a> (February 2015) </li>
+<li><a href="newsletters/hamuli/HamuliV6i2.pdf">Volume 6, issue 2</a> (September 2015) </li>
+<li>Volume 7, issue 1 (March 2015) - <span style="color:red;">Please <a href="http://hymenopterists.org/purchase.php">join ISH</a> for access.</span></li>
 </ul>
 <h3><a name="newsletter">Old ISH Newsletters</a></h3>
 <ul>
